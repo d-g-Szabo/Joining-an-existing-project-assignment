@@ -1,3 +1,31 @@
+## Reflection
+
+🎯 Please mention the requirements you met and which goals you achieved for this assignment.
+
+- I met all the requirements, which means I deployed it to Vercel.
+- I did fix page titles on post pages to match the post title
+- Handled the error when you click to vote while not logged
+- Voting was already working as implemented so I did not need to fix that.
+
+🎯 Were there any requirements or goals that you were not quite able to achieve?
+
+- I tried to do Tiptap implementation stretch goal but unfortunately it did not work
+
+🎯 If so, could you please tell us what was it that you found difficult about these tasks?
+
+- Well with the Tiptap I found it hard to understand how I could use the text editor in the form, or how I could access the Tiptap text editors to send it into the database.
+
+(Optional)
+🏹 Feel free to add any other reflections you would like to share about your submission e.g.
+
+What went really well and what could have gone better?
+
+- Deploying it was straightforward; I expected actual error, but If one follows the step-by-step tutorial, it's pretty easy.
+
+Requesting feedback about a specific part of your submission.
+
+- Well, I would like to get some insight into how to make Tiptap work with a form.
+
 ## Upvote
 
 Upvote is a Reddit-esque web application that allows users to create posts, upvote and downvote posts, and comment on posts in a multi-threaded, nested list.

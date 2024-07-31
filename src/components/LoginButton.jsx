@@ -8,7 +8,7 @@ export function LoginButton() {
 
   return (
     <form action={handleLogin} className="inline">
-      <button className="bg-pink-300 text-black px-3 py-2 rounded">
+      <button className="ml-10 hover:bg-zinc-300 p-2 rounded bg-pink-300 text-black">
         Login
       </button>
     </form>
